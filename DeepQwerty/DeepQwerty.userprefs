@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Army.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Army.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChessBoard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ArmyModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Piece.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChessSquare.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Evaluator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChessBoardModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BishopModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChessSquareModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PieceModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KnightModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\QueenModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RookModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KingModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PawnModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChessGame.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
